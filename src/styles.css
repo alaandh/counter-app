@@ -1,0 +1,33 @@
+html,
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #21232a;
+  color: whitesmoke;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 1.2rem;
+  padding: 68px;
+}
+
+h2 {
+  display: flex;
+  justify-content: center;
+}
+
+button {
+  margin: 0.4rem;
+  font-size: 1rem;
+  padding: 0.6rem;
+}
+
+button:hover {
+  border: none;
+  cursor: pointer;
+  background-color: #3c476a;
+}
+
+.btn {
+  display: flex;
+  justify-content: center;
+}
